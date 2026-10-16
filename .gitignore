@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies and generated output (if introduced later)
+node_modules/
+dist/
+build/
+coverage/
+
+# Lokale Excel-Quellen / Sources Excel locales / Fonti Excel locali
+temp/
+
+# Private configuration and Python runtime / Configuration privée / Configurazione privata
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.sqlite3
+*.sqlite3-*
+exports/
+artifacts/

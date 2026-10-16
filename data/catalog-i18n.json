@@ -1,0 +1,1814 @@
+{
+  "nodes": {
+    "NP1": {
+      "label": {
+        "de": "Staatliche Stabilität und Legitimität",
+        "fr": "Stabilité et légitimité de l’État",
+        "it": "Stabilità e legittimità dello Stato"
+      }
+    },
+    "NP2": {
+      "label": {
+        "de": "Politische Führungs- und Entscheidungsfähigkeit",
+        "fr": "Capacité de conduite politique et de décision",
+        "it": "Capacità di condotta politica e decisionale"
+      }
+    },
+    "NP3": {
+      "label": {
+        "de": "Bündnisse und internationale Einbindung",
+        "fr": "Alliances et intégration internationale",
+        "it": "Alleanze e integrazione internazionale"
+      }
+    },
+    "NP4": {
+      "label": {
+        "de": "Rechtlicher und institutioneller Rahmen",
+        "fr": "Cadre juridique et institutionnel",
+        "it": "Quadro giuridico e istituzionale"
+      }
+    },
+    "NM1": {
+      "label": {
+        "de": "Doktrin und Führung",
+        "fr": "Doctrine et conduite",
+        "it": "Dottrina e condotta"
+      }
+    },
+    "NM2": {
+      "label": {
+        "de": "Streitkräftestruktur und Personalsystem",
+        "fr": "Structure des forces armées et système du personnel",
+        "it": "Struttura delle forze armate e sistema del personale"
+      }
+    },
+    "NM3": {
+      "label": {
+        "de": "Ausbildungssystem und Einsatzerfahrung",
+        "fr": "Système d’instruction et expérience d’engagement",
+        "it": "Sistema d’istruzione ed esperienza d’impiego"
+      }
+    },
+    "NM4": {
+      "label": {
+        "de": "Fähigkeitsentwicklung und Beschaffung",
+        "fr": "Développement des capacités et acquisition",
+        "it": "Sviluppo delle capacità e acquisto"
+      }
+    },
+    "NM5": {
+      "label": {
+        "de": "Nachrichtendienst und strategische Fähigkeiten",
+        "fr": "Renseignement et capacités stratégiques",
+        "it": "Servizio informazioni e capacità strategiche"
+      }
+    },
+    "NM6": {
+      "label": {
+        "de": "Paramilitärische und irreguläre Kräfte",
+        "fr": "Forces paramilitaires et irrégulières",
+        "it": "Forze paramilitari e irregolari"
+      }
+    },
+    "NM7": {
+      "label": {
+        "de": "Expeditionsfähigkeit",
+        "fr": "Capacité expéditionnaire",
+        "it": "Capacità di spedizione"
+      }
+    },
+    "NM8": {
+      "label": {
+        "de": "Einsatzbereitschaft und Logistik",
+        "fr": "Disponibilité opérationnelle et logistique",
+        "it": "Prontezza d’impiego e logistica"
+      }
+    },
+    "NE1": {
+      "label": {
+        "de": "Wirtschaftskraft und Finanzen",
+        "fr": "Puissance économique et finances",
+        "it": "Forza economica e finanze"
+      }
+    },
+    "NE2": {
+      "label": {
+        "de": "Verteidigungsfinanzierung",
+        "fr": "Financement de la défense",
+        "it": "Finanziamento della difesa"
+      }
+    },
+    "NE3": {
+      "label": {
+        "de": "Industrielle Basis und Fertigungsfähigkeit",
+        "fr": "Base industrielle et capacité de fabrication",
+        "it": "Base industriale e capacità produttiva"
+      }
+    },
+    "NE4": {
+      "label": {
+        "de": "Versorgungs- und Lieferkettensicherheit",
+        "fr": "Sécurité de l’approvisionnement et des chaînes logistiques",
+        "it": "Sicurezza dell’approvvigionamento e delle catene di fornitura"
+      }
+    },
+    "NS1": {
+      "label": {
+        "de": "Demografie und Humankapital",
+        "fr": "Démographie et capital humain",
+        "it": "Demografia e capitale umano"
+      }
+    },
+    "NS2": {
+      "label": {
+        "de": "Gesellschaftlicher Zusammenhalt",
+        "fr": "Cohésion sociale",
+        "it": "Coesione sociale"
+      }
+    },
+    "NS3": {
+      "label": {
+        "de": "Wehrbereitschaft und Resilienz",
+        "fr": "Volonté de défense et résilience",
+        "it": "Volontà di difesa e resilienza"
+      }
+    },
+    "NI1": {
+      "label": {
+        "de": "Informationsumfeld und strategische Kommunikation",
+        "fr": "Environnement informationnel et communication stratégique",
+        "it": "Contesto informativo e comunicazione strategica"
+      }
+    },
+    "NI2": {
+      "label": {
+        "de": "Informationsresilienz",
+        "fr": "Résilience informationnelle",
+        "it": "Resilienza informativa"
+      }
+    },
+    "NI3": {
+      "label": {
+        "de": "Digitale und Cyberfähigkeiten (staatlich/zivil)",
+        "fr": "Capacités numériques et cyber (étatiques/civiles)",
+        "it": "Capacità digitali e cibernetiche (statali/civili)"
+      }
+    },
+    "NN1": {
+      "label": {
+        "de": "Verkehrs- und Logistikinfrastruktur",
+        "fr": "Infrastructures de transport et de logistique",
+        "it": "Infrastrutture di trasporto e logistiche"
+      }
+    },
+    "NN2": {
+      "label": {
+        "de": "Energie und Versorgung",
+        "fr": "Énergie et approvisionnement",
+        "it": "Energia e approvvigionamento"
+      }
+    },
+    "NN3": {
+      "label": {
+        "de": "Kommunikationsinfrastruktur",
+        "fr": "Infrastructures de communication",
+        "it": "Infrastrutture di comunicazione"
+      }
+    },
+    "NN4": {
+      "label": {
+        "de": "Schutz- und Gesundheitsinfrastruktur",
+        "fr": "Infrastructures de protection et de santé",
+        "it": "Infrastrutture di protezione e sanitarie"
+      }
+    },
+    "NU1": {
+      "label": {
+        "de": "Strategische Tiefe und Exposition",
+        "fr": "Profondeur stratégique et exposition",
+        "it": "Profondità strategica ed esposizione"
+      }
+    },
+    "NU2": {
+      "label": {
+        "de": "Gelände, Klima und Witterung",
+        "fr": "Terrain, climat et conditions météorologiques",
+        "it": "Terreno, clima e condizioni meteorologiche"
+      }
+    },
+    "WR": {
+      "label": {
+        "de": "Weltraum",
+        "fr": "Espace exoatmosphérique",
+        "it": "Spazio extra-atmosferico"
+      }
+    },
+    "LR": {
+      "label": {
+        "de": "Luftraum",
+        "fr": "Espace aérien",
+        "it": "Spazio aereo"
+      }
+    },
+    "BO": {
+      "label": {
+        "de": "Boden",
+        "fr": "Sol",
+        "it": "Suolo"
+      }
+    },
+    "MR": {
+      "label": {
+        "de": "Maritimer Raum",
+        "fr": "Espace maritime",
+        "it": "Spazio marittimo"
+      }
+    },
+    "ER": {
+      "label": {
+        "de": "Elektromagnetischer Raum",
+        "fr": "Espace électromagnétique",
+        "it": "Spazio elettromagnetico"
+      }
+    },
+    "CR": {
+      "label": {
+        "de": "Cyber-Raum",
+        "fr": "Cyberespace",
+        "it": "Ciberspazio"
+      }
+    },
+    "IR": {
+      "label": {
+        "de": "Informationsraum",
+        "fr": "Espace informationnel",
+        "it": "Spazio informativo"
+      }
+    }
+  },
+  "targets": {
+    "X1": {
+      "label": {
+        "de": "Personal",
+        "fr": "Personnel",
+        "it": "Personale"
+      }
+    },
+    "X2": {
+      "label": {
+        "de": "Material",
+        "fr": "Matériel",
+        "it": "Materiale"
+      }
+    },
+    "X3": {
+      "label": {
+        "de": "Führung und Ausbildung",
+        "fr": "Conduite et instruction",
+        "it": "Condotta e istruzione"
+      }
+    },
+    "X4": {
+      "label": {
+        "de": "Durchhaltefähigkeit",
+        "fr": "Capacité à durer",
+        "it": "Capacità di resistenza"
+      }
+    },
+    "X5": {
+      "label": {
+        "de": "Kampfwille",
+        "fr": "Volonté de combattre",
+        "it": "Volontà di combattere"
+      }
+    }
+  },
+  "indicators": {
+    "P01": {
+      "label": {
+        "de": "Regierungsstabilität",
+        "fr": "Stabilité gouvernementale",
+        "it": "Stabilità del governo"
+      },
+      "definition": {
+        "de": "Regierungsstabilität\n\nWahrscheinlichkeit eines ungeplanten Regierungswechsels oder einer Staatskrise im Beurteilungszeitraum.",
+        "fr": "Stabilité gouvernementale\n\nProbabilité d’un changement de gouvernement non planifié ou d’une crise de l’État pendant la période d’appréciation.",
+        "it": "Stabilità del governo\n\nProbabilità di un cambiamento di governo non pianificato o di una crisi dello Stato nel periodo di valutazione."
+      }
+    },
+    "P02": {
+      "label": {
+        "de": "Legitimität und Vertrauen in Institutionen",
+        "fr": "Légitimité et confiance dans les institutions",
+        "it": "Legittimità e fiducia nelle istituzioni"
+      },
+      "definition": {
+        "de": "Legitimität und Vertrauen in Institutionen\n\nRückhalt von Staat und Institutionen in der Bevölkerung.",
+        "fr": "Légitimité et confiance dans les institutions\n\nSoutien de la population à l’État et à ses institutions.",
+        "it": "Legittimità e fiducia nelle istituzioni\n\nSostegno della popolazione allo Stato e alle istituzioni."
+      }
+    },
+    "P03": {
+      "label": {
+        "de": "Entscheidungsfähigkeit in Krisen",
+        "fr": "Capacité de décision en situation de crise",
+        "it": "Capacità decisionale nelle crisi"
+      },
+      "definition": {
+        "de": "Entscheidungsfähigkeit in Krisen\n\nFähigkeit der politischen Führung, sicherheitspolitische Entscheide rasch und verbindlich zu treffen.",
+        "fr": "Capacité de décision en situation de crise\n\nCapacité de la conduite politique à prendre rapidement des décisions contraignantes en matière de politique de sécurité.",
+        "it": "Capacità decisionale nelle crisi\n\nCapacità della condotta politica di adottare rapidamente decisioni vincolanti in materia di politica di sicurezza."
+      }
+    },
+    "P04": {
+      "label": {
+        "de": "Zivil-militärische Beziehungen",
+        "fr": "Relations civilo-militaires",
+        "it": "Relazioni civili-militari"
+      },
+      "definition": {
+        "de": "Zivil-militärische Beziehungen\n\nKlarheit der politischen Kontrolle über die Streitkräfte und Qualität der Zusammenarbeit.",
+        "fr": "Relations civilo-militaires\n\nClarté du contrôle politique sur les forces armées et qualité de la collaboration.",
+        "it": "Relazioni civili-militari\n\nChiarezza del controllo politico sulle forze armate e qualità della collaborazione."
+      }
+    },
+    "P05": {
+      "label": {
+        "de": "Strategische Kohärenz",
+        "fr": "Cohérence stratégique",
+        "it": "Coerenza strategica"
+      },
+      "definition": {
+        "de": "Strategische Kohärenz\n\nVorhandensein und Umsetzungsgrad einer verbindlichen Sicherheits- und Verteidigungsstrategie.",
+        "fr": "Cohérence stratégique\n\nExistence et degré de mise en œuvre d’une stratégie de sécurité et de défense contraignante.",
+        "it": "Coerenza strategica\n\nEsistenza e grado di attuazione di una strategia di sicurezza e di difesa vincolante."
+      }
+    },
+    "P13": {
+      "label": {
+        "de": "Strategische Kultur und Eskalationsbereitschaft",
+        "fr": "Culture stratégique et disposition à l’escalade",
+        "it": "Cultura strategica e disponibilità all’escalation"
+      },
+      "definition": {
+        "de": "Strategische Kultur und Eskalationsbereitschaft\n\nBereitschaft der politischen Führung, militärische Gewalt tatsächlich einzusetzen.",
+        "fr": "Culture stratégique et disposition à l’escalade\n\nDisposition de la conduite politique à recourir effectivement à la force militaire.",
+        "it": "Cultura strategica e disponibilità all’escalation\n\nDisponibilità della condotta politica a impiegare effettivamente la forza militare."
+      }
+    },
+    "P06": {
+      "label": {
+        "de": "Bündnisverpflichtungen",
+        "fr": "Engagements d’alliance",
+        "it": "Impegni di alleanza"
+      },
+      "definition": {
+        "de": "Bündnisverpflichtungen\n\nUmfang und Verbindlichkeit von Beistandszusagen zugunsten des Akteurs.",
+        "fr": "Engagements d’alliance\n\nÉtendue et caractère contraignant des engagements d’assistance en faveur de l’acteur.",
+        "it": "Impegni di alleanza\n\nPortata e carattere vincolante degli impegni di assistenza a favore dell’attore."
+      }
+    },
+    "P07": {
+      "label": {
+        "de": "Partnerschaften und Interoperabilität",
+        "fr": "Partenariats et interopérabilité",
+        "it": "Partenariati e interoperabilità"
+      },
+      "definition": {
+        "de": "Partnerschaften und Interoperabilität\n\nMilitärische Kooperationen, gemeinsame Standards und Übungen mit Partnern.",
+        "fr": "Partenariats et interopérabilité\n\nCoopérations militaires, normes communes et exercices avec des partenaires.",
+        "it": "Partenariati e interoperabilità\n\nCooperazioni militari, standard comuni ed esercizi con partner."
+      }
+    },
+    "P08": {
+      "label": {
+        "de": "Internationale Unterstützung",
+        "fr": "Soutien international",
+        "it": "Sostegno internazionale"
+      },
+      "definition": {
+        "de": "Internationale Unterstützung\n\nDiplomatisches Gewicht und zu erwartende politische, finanzielle oder materielle Unterstützung Dritter.",
+        "fr": "Soutien international\n\nPoids diplomatique et soutien politique, financier ou matériel attendu de tiers.",
+        "it": "Sostegno internazionale\n\nPeso diplomatico e sostegno politico, finanziario o materiale atteso da terzi."
+      }
+    },
+    "P09": {
+      "label": {
+        "de": "Aussenpolitische Handlungsfreiheit",
+        "fr": "Liberté d’action en politique extérieure",
+        "it": "Libertà d’azione in politica estera"
+      },
+      "definition": {
+        "de": "Aussenpolitische Handlungsfreiheit\n\nFreiheit von Sanktionen, Abhängigkeiten oder Bindungen, die sicherheitspolitisches Handeln einschränken.",
+        "fr": "Liberté d’action en politique extérieure\n\nAbsence de sanctions, de dépendances ou d’engagements limitant l’action en matière de politique de sécurité.",
+        "it": "Libertà d’azione in politica estera\n\nAssenza di sanzioni, dipendenze o vincoli che limitano l’azione in materia di politica di sicurezza."
+      }
+    },
+    "P10": {
+      "label": {
+        "de": "Rechtsgrundlagen für Einsatz und Mobilmachung",
+        "fr": "Bases légales de l’engagement et de la mobilisation",
+        "it": "Basi legali per l’impiego e la mobilitazione"
+      },
+      "definition": {
+        "de": "Rechtsgrundlagen für Einsatz und Mobilmachung\n\nVorhandensein und Praxistauglichkeit der rechtlichen Grundlagen für Einsatz, Mobilmachung und Requisition.",
+        "fr": "Bases légales de l’engagement et de la mobilisation\n\nExistence et applicabilité pratique des bases légales de l’engagement, de la mobilisation et de la réquisition.",
+        "it": "Basi legali per l’impiego e la mobilitazione\n\nEsistenza e applicabilità pratica delle basi legali per l’impiego, la mobilitazione e la requisizione."
+      }
+    },
+    "P11": {
+      "label": {
+        "de": "Governance-Qualität und Korruption",
+        "fr": "Qualité de la gouvernance et corruption",
+        "it": "Qualità della governance e corruzione"
+      },
+      "definition": {
+        "de": "Governance-Qualität und Korruption\n\nIntegrität und Wirksamkeit der staatlichen Verwaltung, insbesondere im Sicherheitssektor.",
+        "fr": "Qualité de la gouvernance et corruption\n\nIntégrité et efficacité de l’administration de l’État, en particulier dans le secteur de la sécurité.",
+        "it": "Qualità della governance e corruzione\n\nIntegrità ed efficacia dell’amministrazione statale, in particolare nel settore della sicurezza."
+      }
+    },
+    "P12": {
+      "label": {
+        "de": "Krisenorganisation des Staates",
+        "fr": "Organisation de crise de l’État",
+        "it": "Organizzazione dello Stato per le crisi"
+      },
+      "definition": {
+        "de": "Krisenorganisation des Staates\n\nVorbereitete Strukturen und Verfahren für die gesamtstaatliche Krisenbewältigung.",
+        "fr": "Organisation de crise de l’État\n\nStructures et procédures préparées pour la gestion des crises à l’échelle de l’État.",
+        "it": "Organizzazione dello Stato per le crisi\n\nStrutture e procedure predisposte per la gestione delle crisi a livello dell’intero Stato."
+      }
+    },
+    "M01": {
+      "label": {
+        "de": "Doktrin und Führungsphilosophie",
+        "fr": "Doctrine et philosophie de conduite",
+        "it": "Dottrina e filosofia di condotta"
+      },
+      "definition": {
+        "de": "Doktrin und Führungsphilosophie\n\nAktualität, Kohärenz und Umsetzung der Doktrin, inkl. Grad der Auftragstaktik.",
+        "fr": "Doctrine et philosophie de conduite\n\nActualité, cohérence et mise en œuvre de la doctrine, y compris le degré de conduite par objectifs.",
+        "it": "Dottrina e filosofia di condotta\n\nAttualità, coerenza e attuazione della dottrina, compreso il grado di condotta per obiettivi."
+      }
+    },
+    "M02": {
+      "label": {
+        "de": "Führungsstruktur",
+        "fr": "Structure de conduite",
+        "it": "Struttura di condotta"
+      },
+      "definition": {
+        "de": "Führungsstruktur\n\nEignung der Kommandostruktur für Einsätze über alle Stufen und Sphären.",
+        "fr": "Structure de conduite\n\nAdéquation de la structure de commandement aux engagements à tous les échelons et dans toutes les sphères.",
+        "it": "Struttura di condotta\n\nAdeguatezza della struttura di comando per impieghi a tutti i livelli e in tutte le sfere."
+      }
+    },
+    "M03": {
+      "label": {
+        "de": "Führungsunterstützung und Vernetzung",
+        "fr": "Aide au commandement et mise en réseau",
+        "it": "Aiuto alla condotta e collegamento in rete"
+      },
+      "definition": {
+        "de": "Führungsunterstützung und Vernetzung\n\nFähigkeit zu vernetzter Führung, Lageverbund und sicherer Kommunikation (C2).",
+        "fr": "Aide au commandement et mise en réseau\n\nCapacité de conduite en réseau, de partage de la situation et de communication sécurisée (C2).",
+        "it": "Aiuto alla condotta e collegamento in rete\n\nCapacità di condotta in rete, condivisione della situazione e comunicazione sicura (C2)."
+      }
+    },
+    "M04": {
+      "label": {
+        "de": "Wehrmodell",
+        "fr": "Modèle de service militaire",
+        "it": "Modello di servizio militare"
+      },
+      "definition": {
+        "de": "Wehrmodell\n\nEignung des Wehrmodells (Wehrpflicht, Miliz, Berufsarmee) zur Alimentierung der Streitkräfte.",
+        "fr": "Modèle de service militaire\n\nAdéquation du modèle de service militaire (conscription, milice, armée professionnelle) pour assurer les effectifs des forces armées.",
+        "it": "Modello di servizio militare\n\nAdeguatezza del modello di servizio militare (obbligo di servizio, milizia, esercito professionale) per garantire gli effettivi delle forze armate."
+      }
+    },
+    "M05": {
+      "label": {
+        "de": "Rekrutierungs- und Rückhaltefähigkeit",
+        "fr": "Capacité de recrutement et de fidélisation",
+        "it": "Capacità di reclutamento e fidelizzazione"
+      },
+      "definition": {
+        "de": "Rekrutierungs- und Rückhaltefähigkeit\n\nFähigkeit, den Personalbedarf quantitativ und qualitativ zu decken und Personal zu halten.",
+        "fr": "Capacité de recrutement et de fidélisation\n\nCapacité à couvrir les besoins en personnel en quantité et en qualité et à retenir le personnel.",
+        "it": "Capacità di reclutamento e fidelizzazione\n\nCapacità di coprire il fabbisogno di personale in termini quantitativi e qualitativi e di trattenere il personale."
+      }
+    },
+    "M06": {
+      "label": {
+        "de": "Reservesystem und Aufwuchsfähigkeit",
+        "fr": "Système de réserve et capacité de montée en puissance",
+        "it": "Sistema della riserva e capacità di potenziamento"
+      },
+      "definition": {
+        "de": "Reservesystem und Aufwuchsfähigkeit\n\nUmfang, Bereitschaft und Ausrüstung der Reserve sowie Fähigkeit zum Aufwuchs.",
+        "fr": "Système de réserve et capacité de montée en puissance\n\nVolume, disponibilité et équipement de la réserve ainsi que capacité de montée en puissance.",
+        "it": "Sistema della riserva e capacità di potenziamento\n\nConsistenza, prontezza ed equipaggiamento della riserva e capacità di potenziamento."
+      }
+    },
+    "M26": {
+      "label": {
+        "de": "Mobilmachungsdauer",
+        "fr": "Durée de mobilisation",
+        "it": "Durata della mobilitazione"
+      },
+      "definition": {
+        "de": "Mobilmachungsdauer\n\nZeitbedarf, um Reserven und Miliz einsatzbereit zu machen.",
+        "fr": "Durée de mobilisation\n\nTemps nécessaire pour rendre les réserves et la milice prêtes à l’engagement.",
+        "it": "Durata della mobilitazione\n\nTempo necessario per rendere pronte all’impiego le riserve e la milizia."
+      }
+    },
+    "M07": {
+      "label": {
+        "de": "Ausbildungssystem",
+        "fr": "Système d’instruction",
+        "it": "Sistema d’istruzione"
+      },
+      "definition": {
+        "de": "Ausbildungssystem\n\nKapazität und Qualität der Ausbildungsinfrastruktur, inkl. Simulation und Ausbildungspersonal.",
+        "fr": "Système d’instruction\n\nCapacité et qualité des infrastructures d’instruction, y compris la simulation et le personnel instructeur.",
+        "it": "Sistema d’istruzione\n\nCapacità e qualità delle infrastrutture d’istruzione, comprese la simulazione e il personale istruttore."
+      }
+    },
+    "M08": {
+      "label": {
+        "de": "Einsatz- und Kampferfahrung",
+        "fr": "Expérience d’engagement et de combat",
+        "it": "Esperienza d’impiego e di combattimento"
+      },
+      "definition": {
+        "de": "Einsatz- und Kampferfahrung\n\nAktuelle und übertragbare Erfahrung aus Einsätzen und Gefechten.",
+        "fr": "Expérience d’engagement et de combat\n\nExpérience actuelle et transposable acquise lors d’engagements et de combats.",
+        "it": "Esperienza d’impiego e di combattimento\n\nEsperienza attuale e trasferibile acquisita in impieghi e combattimenti."
+      }
+    },
+    "M09": {
+      "label": {
+        "de": "Übungstätigkeit",
+        "fr": "Activité d’exercice",
+        "it": "Attività d’esercizio"
+      },
+      "definition": {
+        "de": "Übungstätigkeit\n\nHäufigkeit, Stufe und Realitätsnähe von Übungen, inkl. multinationaler Übungen.",
+        "fr": "Activité d’exercice\n\nFréquence, échelon et réalisme des exercices, y compris les exercices multinationaux.",
+        "it": "Attività d’esercizio\n\nFrequenza, livello e realismo degli esercizi, compresi quelli multinazionali."
+      }
+    },
+    "M10": {
+      "label": {
+        "de": "Beschaffungsfähigkeit",
+        "fr": "Capacité d’acquisition",
+        "it": "Capacità di acquisto"
+      },
+      "definition": {
+        "de": "Beschaffungsfähigkeit\n\nGeschwindigkeit und Wirksamkeit der Rüstungsbeschaffung.",
+        "fr": "Capacité d’acquisition\n\nRapidité et efficacité des acquisitions d’armement.",
+        "it": "Capacità di acquisto\n\nRapidità ed efficacia degli acquisti di armamento."
+      }
+    },
+    "M11": {
+      "label": {
+        "de": "Innovations- und Anpassungsfähigkeit",
+        "fr": "Capacité d’innovation et d’adaptation",
+        "it": "Capacità d’innovazione e adattamento"
+      },
+      "definition": {
+        "de": "Innovations- und Anpassungsfähigkeit\n\nFähigkeit, neue Technologien und Lehren rasch in Fähigkeiten umzusetzen.",
+        "fr": "Capacité d’innovation et d’adaptation\n\nCapacité à convertir rapidement les nouvelles technologies et les enseignements en capacités.",
+        "it": "Capacità d’innovazione e adattamento\n\nCapacità di tradurre rapidamente nuove tecnologie e insegnamenti in capacità."
+      }
+    },
+    "M12": {
+      "label": {
+        "de": "Nachrichtendienst",
+        "fr": "Renseignement",
+        "it": "Servizio informazioni"
+      },
+      "definition": {
+        "de": "Nachrichtendienst\n\nFähigkeit zur strategischen und operativen Informationsbeschaffung und -auswertung.",
+        "fr": "Renseignement\n\nCapacité de recherche et d’exploitation de renseignements aux niveaux stratégique et opératif.",
+        "it": "Servizio informazioni\n\nCapacità di acquisizione e analisi di informazioni a livello strategico e operativo."
+      }
+    },
+    "M13": {
+      "label": {
+        "de": "Strategische Abschreckung",
+        "fr": "Dissuasion stratégique",
+        "it": "Deterrenza strategica"
+      },
+      "definition": {
+        "de": "Strategische Abschreckung\n\nVerfügbarkeit strategischer Abschreckungsmittel (eigen oder durch Bündnis gesichert).",
+        "fr": "Dissuasion stratégique\n\nDisponibilité de moyens de dissuasion stratégique, propres ou garantis par une alliance.",
+        "it": "Deterrenza strategica\n\nDisponibilità di mezzi di deterrenza strategica propri o garantiti da un’alleanza."
+      }
+    },
+    "M27": {
+      "label": {
+        "de": "Vorwarnzeit",
+        "fr": "Préavis d’alerte",
+        "it": "Tempo di preavviso"
+      },
+      "definition": {
+        "de": "Vorwarnzeit\n\nFähigkeit, Bedrohungen früh zu erkennen und Zeit für Entscheide zu gewinnen.",
+        "fr": "Préavis d’alerte\n\nCapacité à détecter les menaces tôt et à gagner du temps pour la décision.",
+        "it": "Tempo di preavviso\n\nCapacità di riconoscere precocemente le minacce e guadagnare tempo per le decisioni."
+      }
+    },
+    "M14": {
+      "label": {
+        "de": "Umfang und Bewaffnung paramilitärischer Kräfte",
+        "fr": "Volume et armement des forces paramilitaires",
+        "it": "Consistenza e armamento delle forze paramilitari"
+      },
+      "definition": {
+        "de": "Umfang und Bewaffnung paramilitärischer Kräfte\n\nUmfang und Ausrüstung von Kräften ausserhalb der regulären Streitkräfte.",
+        "fr": "Volume et armement des forces paramilitaires\n\nVolume et équipement des forces extérieures aux forces armées régulières.",
+        "it": "Consistenza e armamento delle forze paramilitari\n\nConsistenza ed equipaggiamento di forze esterne alle forze armate regolari."
+      }
+    },
+    "M15": {
+      "label": {
+        "de": "Staatliche Kontrolle paramilitärischer Kräfte",
+        "fr": "Contrôle étatique des forces paramilitaires",
+        "it": "Controllo statale delle forze paramilitari"
+      },
+      "definition": {
+        "de": "Staatliche Kontrolle paramilitärischer Kräfte\n\nGrad der Integration in die staatliche Führung und Kontrolle.",
+        "fr": "Contrôle étatique des forces paramilitaires\n\nDegré d’intégration dans la conduite et le contrôle de l’État.",
+        "it": "Controllo statale delle forze paramilitari\n\nGrado d’integrazione nella condotta e nel controllo statali."
+      }
+    },
+    "M16": {
+      "label": {
+        "de": "Stellvertreterkräfte (Proxys)",
+        "fr": "Forces par procuration (proxys)",
+        "it": "Forze per procura (proxy)"
+      },
+      "definition": {
+        "de": "Stellvertreterkräfte (Proxys)\n\nFähigkeit, verbündete nichtstaatliche Kräfte für eigene Ziele einzusetzen.",
+        "fr": "Forces par procuration (proxys)\n\nCapacité à employer des forces non étatiques alliées au service de ses propres objectifs.",
+        "it": "Forze per procura (proxy)\n\nCapacità di impiegare forze non statali alleate per i propri obiettivi."
+      }
+    },
+    "M17": {
+      "label": {
+        "de": "Private Militär- und Sicherheitsfirmen",
+        "fr": "Entreprises militaires et de sécurité privées",
+        "it": "Società militari e di sicurezza private"
+      },
+      "definition": {
+        "de": "Private Militär- und Sicherheitsfirmen\n\nVerfügbarkeit privater Dienstleister für militärische Aufgaben.",
+        "fr": "Entreprises militaires et de sécurité privées\n\nDisponibilité de prestataires privés pour des tâches militaires.",
+        "it": "Società militari e di sicurezza private\n\nDisponibilità di fornitori privati per compiti militari."
+      }
+    },
+    "M18": {
+      "label": {
+        "de": "Strategischer Seetransport und Vorausstationierung",
+        "fr": "Transport maritime stratégique et prépositionnement",
+        "it": "Trasporto marittimo strategico e preposizionamento"
+      },
+      "definition": {
+        "de": "Strategischer Seetransport und Vorausstationierung\n\nFähigkeit, schweres Material über See zu verlegen und vorauszustationieren.",
+        "fr": "Transport maritime stratégique et prépositionnement\n\nCapacité à déplacer du matériel lourd par voie maritime et à le prépositionner.",
+        "it": "Trasporto marittimo strategico e preposizionamento\n\nCapacità di trasferire materiale pesante via mare e di preposizionarlo."
+      }
+    },
+    "M19": {
+      "label": {
+        "de": "Stützpunkte im Ausland",
+        "fr": "Bases à l’étranger",
+        "it": "Basi all’estero"
+      },
+      "definition": {
+        "de": "Stützpunkte im Ausland\n\nNetz an Stützpunkten und Zugangsrechten ausserhalb des eigenen Staatsgebiets.",
+        "fr": "Bases à l’étranger\n\nRéseau de bases et de droits d’accès hors du territoire national.",
+        "it": "Basi all’estero\n\nRete di basi e diritti d’accesso al di fuori del proprio territorio nazionale."
+      }
+    },
+    "M20": {
+      "label": {
+        "de": "Durchhaltefähigkeit ausserhalb des Staatsgebiets",
+        "fr": "Capacité à durer hors du territoire national",
+        "it": "Capacità di resistenza al di fuori del territorio nazionale"
+      },
+      "definition": {
+        "de": "Durchhaltefähigkeit ausserhalb des Staatsgebiets\n\nFähigkeit, Kräfte über Distanz längere Zeit zu versorgen.",
+        "fr": "Capacité à durer hors du territoire national\n\nCapacité à ravitailler durablement des forces sur de longues distances.",
+        "it": "Capacità di resistenza al di fuori del territorio nazionale\n\nCapacità di rifornire le forze a distanza per periodi prolungati."
+      }
+    },
+    "M21": {
+      "label": {
+        "de": "Amphibische und luftgestützte Verlegefähigkeit",
+        "fr": "Capacité de déploiement amphibie et aéroporté",
+        "it": "Capacità di trasferimento anfibio e aviotrasportato"
+      },
+      "definition": {
+        "de": "Amphibische und luftgestützte Verlegefähigkeit\n\nFähigkeit, Kräfte über See oder Luft in einen Einsatzraum zu bringen.",
+        "fr": "Capacité de déploiement amphibie et aéroporté\n\nCapacité à acheminer des forces par mer ou par air dans un espace d’engagement.",
+        "it": "Capacità di trasferimento anfibio e aviotrasportato\n\nCapacità di trasferire forze via mare o per via aerea in uno spazio d’impiego."
+      }
+    },
+    "M22": {
+      "label": {
+        "de": "Einsatzbereitschaft des Materials",
+        "fr": "Disponibilité opérationnelle du matériel",
+        "it": "Prontezza d’impiego del materiale"
+      },
+      "definition": {
+        "de": "Einsatzbereitschaft des Materials\n\nAnteil des Materials, der tatsächlich einsatzbereit ist.",
+        "fr": "Disponibilité opérationnelle du matériel\n\nPart du matériel effectivement prête à l’engagement.",
+        "it": "Prontezza d’impiego del materiale\n\nQuota del materiale effettivamente pronta all’impiego."
+      }
+    },
+    "M23": {
+      "label": {
+        "de": "Munitionsvorräte",
+        "fr": "Stocks de munitions",
+        "it": "Scorte di munizioni"
+      },
+      "definition": {
+        "de": "Munitionsvorräte\n\nVorräte an Munition und Lenkwaffen im Verhältnis zum Bedarf.",
+        "fr": "Stocks de munitions\n\nStocks de munitions et d’engins guidés par rapport aux besoins.",
+        "it": "Scorte di munizioni\n\nScorte di munizioni e missili guidati rispetto al fabbisogno."
+      }
+    },
+    "M24": {
+      "label": {
+        "de": "Ersatzteile und Instandhaltung",
+        "fr": "Pièces de rechange et maintenance",
+        "it": "Pezzi di ricambio e manutenzione"
+      },
+      "definition": {
+        "de": "Ersatzteile und Instandhaltung\n\nVerfügbarkeit von Ersatzteilen und Instandhaltungskapazität.",
+        "fr": "Pièces de rechange et maintenance\n\nDisponibilité des pièces de rechange et capacité de maintenance.",
+        "it": "Pezzi di ricambio e manutenzione\n\nDisponibilità di pezzi di ricambio e capacità di manutenzione."
+      }
+    },
+    "M25": {
+      "label": {
+        "de": "Militärische Sanität",
+        "fr": "Service sanitaire militaire",
+        "it": "Servizio sanitario militare"
+      },
+      "definition": {
+        "de": "Militärische Sanität\n\nFähigkeit zur sanitätsdienstlichen Versorgung im Einsatz.",
+        "fr": "Service sanitaire militaire\n\nCapacité de prise en charge sanitaire en engagement.",
+        "it": "Servizio sanitario militare\n\nCapacità di assistenza sanitaria durante l’impiego."
+      }
+    },
+    "E01": {
+      "label": {
+        "de": "Wirtschaftsleistung",
+        "fr": "Performance économique",
+        "it": "Produzione economica"
+      },
+      "definition": {
+        "de": "Wirtschaftsleistung\n\nGrösse der Volkswirtschaft als Basis für Verteidigungsanstrengungen.",
+        "fr": "Performance économique\n\nTaille de l’économie nationale comme base de l’effort de défense.",
+        "it": "Produzione economica\n\nDimensioni dell’economia nazionale quale base dello sforzo di difesa."
+      }
+    },
+    "E02": {
+      "label": {
+        "de": "Fiskalischer Spielraum",
+        "fr": "Marge de manœuvre budgétaire",
+        "it": "Margine di manovra fiscale"
+      },
+      "definition": {
+        "de": "Fiskalischer Spielraum\n\nFähigkeit des Staates, zusätzliche Mittel zu mobilisieren (Verschuldung, Defizit, Kreditwürdigkeit).",
+        "fr": "Marge de manœuvre budgétaire\n\nCapacité de l’État à mobiliser des moyens supplémentaires (endettement, déficit, solvabilité).",
+        "it": "Margine di manovra fiscale\n\nCapacità dello Stato di mobilitare mezzi aggiuntivi (indebitamento, disavanzo, solvibilità)."
+      }
+    },
+    "E03": {
+      "label": {
+        "de": "Verteidigungsausgaben",
+        "fr": "Dépenses de défense",
+        "it": "Spese per la difesa"
+      },
+      "definition": {
+        "de": "Verteidigungsausgaben\n\nHöhe der Verteidigungsausgaben absolut und im Verhältnis zur Wirtschaftsleistung.",
+        "fr": "Dépenses de défense\n\nMontant des dépenses de défense en valeur absolue et par rapport à la performance économique.",
+        "it": "Spese per la difesa\n\nEntità delle spese per la difesa in termini assoluti e rispetto alla produzione economica."
+      }
+    },
+    "E04": {
+      "label": {
+        "de": "Investitionsanteil",
+        "fr": "Part des investissements",
+        "it": "Quota d’investimento"
+      },
+      "definition": {
+        "de": "Investitionsanteil\n\nAnteil des Verteidigungsbudgets für Rüstungsinvestitionen und Forschung.",
+        "fr": "Part des investissements\n\nPart du budget de défense consacrée aux investissements d’armement et à la recherche.",
+        "it": "Quota d’investimento\n\nQuota del bilancio della difesa destinata agli investimenti in armamenti e alla ricerca."
+      }
+    },
+    "E05": {
+      "label": {
+        "de": "Planungssicherheit der Finanzierung",
+        "fr": "Prévisibilité du financement",
+        "it": "Certezza della pianificazione finanziaria"
+      },
+      "definition": {
+        "de": "Planungssicherheit der Finanzierung\n\nMehrjährige Verbindlichkeit und Stabilität der Verteidigungsfinanzierung.",
+        "fr": "Prévisibilité du financement\n\nCaractère contraignant et stabilité pluriannuels du financement de la défense.",
+        "it": "Certezza della pianificazione finanziaria\n\nCarattere vincolante e stabilità pluriennale del finanziamento della difesa."
+      }
+    },
+    "E06": {
+      "label": {
+        "de": "Industrielle Fertigungskapazität",
+        "fr": "Capacité industrielle de fabrication",
+        "it": "Capacità produttiva industriale"
+      },
+      "definition": {
+        "de": "Industrielle Fertigungskapazität\n\nBreite und Leistungsfähigkeit der verarbeitenden Industrie insgesamt.",
+        "fr": "Capacité industrielle de fabrication\n\nDiversité et performance de l’ensemble de l’industrie manufacturière.",
+        "it": "Capacità produttiva industriale\n\nAmpiezza e capacità dell’industria manifatturiera nel suo complesso."
+      }
+    },
+    "E07": {
+      "label": {
+        "de": "Rüstungsindustrielle Basis",
+        "fr": "Base industrielle d’armement",
+        "it": "Base industriale degli armamenti"
+      },
+      "definition": {
+        "de": "Rüstungsindustrielle Basis\n\nFähigkeit, Hauptsysteme eigenständig zu entwickeln, herzustellen und instand zu halten.",
+        "fr": "Base industrielle d’armement\n\nCapacité à développer, fabriquer et maintenir de manière autonome les systèmes principaux.",
+        "it": "Base industriale degli armamenti\n\nCapacità di sviluppare, produrre e mantenere autonomamente i sistemi principali."
+      }
+    },
+    "E08": {
+      "label": {
+        "de": "Skalierbarkeit der Produktion",
+        "fr": "Capacité d’augmentation de la production",
+        "it": "Scalabilità della produzione"
+      },
+      "definition": {
+        "de": "Skalierbarkeit der Produktion\n\nFähigkeit, die Rüstungsproduktion im Krisenfall rasch hochzufahren.",
+        "fr": "Capacité d’augmentation de la production\n\nCapacité à accroître rapidement la production d’armement en cas de crise.",
+        "it": "Scalabilità della produzione\n\nCapacità di aumentare rapidamente la produzione di armamenti in caso di crisi."
+      }
+    },
+    "E09": {
+      "label": {
+        "de": "Munitionsproduktion",
+        "fr": "Production de munitions",
+        "it": "Produzione di munizioni"
+      },
+      "definition": {
+        "de": "Munitionsproduktion\n\nEigene Kapazität zur Herstellung von Munition und Lenkwaffen.",
+        "fr": "Production de munitions\n\nCapacité propre de fabrication de munitions et d’engins guidés.",
+        "it": "Produzione di munizioni\n\nCapacità propria di produrre munizioni e missili guidati."
+      }
+    },
+    "E10": {
+      "label": {
+        "de": "Schlüsseltechnologien",
+        "fr": "Technologies clés",
+        "it": "Tecnologie chiave"
+      },
+      "definition": {
+        "de": "Schlüsseltechnologien\n\nVerfügbarkeit von Schlüsseltechnologien (z.B. Halbleiter, Sensorik, KI, Antriebe).",
+        "fr": "Technologies clés\n\nDisponibilité de technologies clés (p. ex. semi-conducteurs, capteurs, IA, systèmes de propulsion).",
+        "it": "Tecnologie chiave\n\nDisponibilità di tecnologie chiave (p. es. semiconduttori, sensori, IA, propulsori)."
+      }
+    },
+    "E11": {
+      "label": {
+        "de": "Lieferketten und kritische Vorprodukte",
+        "fr": "Chaînes logistiques et produits intermédiaires critiques",
+        "it": "Catene di fornitura e prodotti intermedi critici"
+      },
+      "definition": {
+        "de": "Lieferketten und kritische Vorprodukte\n\nAbhängigkeit von ausländischen Lieferketten für kritische Komponenten und Vorprodukte.",
+        "fr": "Chaînes logistiques et produits intermédiaires critiques\n\nDépendance envers les chaînes logistiques étrangères pour les composants et produits intermédiaires critiques.",
+        "it": "Catene di fornitura e prodotti intermedi critici\n\nDipendenza da catene di fornitura estere per componenti e prodotti intermedi critici."
+      }
+    },
+    "E12": {
+      "label": {
+        "de": "Rohstoff- und Energieabhängigkeit",
+        "fr": "Dépendance aux matières premières et à l’énergie",
+        "it": "Dipendenza da materie prime ed energia"
+      },
+      "definition": {
+        "de": "Rohstoff- und Energieabhängigkeit\n\nAbhängigkeit von Importen strategischer Rohstoffe und Energieträger.",
+        "fr": "Dépendance aux matières premières et à l’énergie\n\nDépendance envers les importations de matières premières stratégiques et de sources d’énergie.",
+        "it": "Dipendenza da materie prime ed energia\n\nDipendenza dalle importazioni di materie prime strategiche e fonti energetiche."
+      }
+    },
+    "S01": {
+      "label": {
+        "de": "Bevölkerungsgrösse",
+        "fr": "Taille de la population",
+        "it": "Dimensioni della popolazione"
+      },
+      "definition": {
+        "de": "Bevölkerungsgrösse\n\nGrösse der Bevölkerung als Basis für Personal und Wirtschaft.",
+        "fr": "Taille de la population\n\nTaille de la population comme base du personnel et de l’économie.",
+        "it": "Dimensioni della popolazione\n\nDimensioni della popolazione quale base per il personale e l’economia."
+      }
+    },
+    "S02": {
+      "label": {
+        "de": "Wehrfähige Jahrgänge",
+        "fr": "Classes d’âge aptes au service",
+        "it": "Classi d’età idonee al servizio"
+      },
+      "definition": {
+        "de": "Wehrfähige Jahrgänge\n\nAltersstruktur und Umfang der für den Dienst verfügbaren Jahrgänge.",
+        "fr": "Classes d’âge aptes au service\n\nStructure par âge et effectifs des classes d’âge disponibles pour le service.",
+        "it": "Classi d’età idonee al servizio\n\nStruttura per età e consistenza delle classi d’età disponibili per il servizio."
+      }
+    },
+    "S03": {
+      "label": {
+        "de": "Bildungsniveau",
+        "fr": "Niveau de formation",
+        "it": "Livello d’istruzione"
+      },
+      "definition": {
+        "de": "Bildungsniveau\n\nAllgemeines Bildungsniveau der Bevölkerung.",
+        "fr": "Niveau de formation\n\nNiveau général de formation de la population.",
+        "it": "Livello d’istruzione\n\nLivello generale d’istruzione della popolazione."
+      }
+    },
+    "S04": {
+      "label": {
+        "de": "Technische Fachkräfte",
+        "fr": "Personnel technique qualifié",
+        "it": "Personale tecnico qualificato"
+      },
+      "definition": {
+        "de": "Technische Fachkräfte\n\nVerfügbarkeit von Fachkräften in Technik, Naturwissenschaft und Informatik.",
+        "fr": "Personnel technique qualifié\n\nDisponibilité de personnel qualifié en technique, sciences naturelles et informatique.",
+        "it": "Personale tecnico qualificato\n\nDisponibilità di specialisti in tecnica, scienze naturali e informatica."
+      }
+    },
+    "S05": {
+      "label": {
+        "de": "Gesundheitszustand und Diensttauglichkeit",
+        "fr": "État de santé et aptitude au service",
+        "it": "Stato di salute e idoneità al servizio"
+      },
+      "definition": {
+        "de": "Gesundheitszustand und Diensttauglichkeit\n\nGesundheitszustand der Bevölkerung und Anteil diensttauglicher Personen.",
+        "fr": "État de santé et aptitude au service\n\nÉtat de santé de la population et part des personnes aptes au service.",
+        "it": "Stato di salute e idoneità al servizio\n\nStato di salute della popolazione e quota di persone idonee al servizio."
+      }
+    },
+    "S06": {
+      "label": {
+        "de": "Gesellschaftliche Kohäsion",
+        "fr": "Cohésion de la société",
+        "it": "Coesione della società"
+      },
+      "definition": {
+        "de": "Gesellschaftliche Kohäsion\n\nGrad des gesellschaftlichen Zusammenhalts und der politischen Polarisierung.",
+        "fr": "Cohésion de la société\n\nDegré de cohésion sociale et de polarisation politique.",
+        "it": "Coesione della società\n\nGrado di coesione sociale e polarizzazione politica."
+      }
+    },
+    "S07": {
+      "label": {
+        "de": "Interne Konfliktlinien",
+        "fr": "Lignes de fracture internes",
+        "it": "Linee di conflitto interne"
+      },
+      "definition": {
+        "de": "Interne Konfliktlinien\n\nAusmass regionaler, sozialer oder ethnischer Spannungen mit Konfliktpotential.",
+        "fr": "Lignes de fracture internes\n\nAmpleur des tensions régionales, sociales ou ethniques présentant un potentiel de conflit.",
+        "it": "Linee di conflitto interne\n\nEntità delle tensioni regionali, sociali o etniche con potenziale di conflitto."
+      }
+    },
+    "S08": {
+      "label": {
+        "de": "Soziale Stabilität",
+        "fr": "Stabilité sociale",
+        "it": "Stabilità sociale"
+      },
+      "definition": {
+        "de": "Soziale Stabilität\n\nSoziale und wirtschaftliche Stabilität (z.B. Ungleichheit, Arbeitslosigkeit).",
+        "fr": "Stabilité sociale\n\nStabilité sociale et économique (p. ex. inégalités, chômage).",
+        "it": "Stabilità sociale\n\nStabilità sociale ed economica (p. es. disuguaglianza, disoccupazione)."
+      }
+    },
+    "S09": {
+      "label": {
+        "de": "Wehrwille",
+        "fr": "Volonté de défense",
+        "it": "Volontà di difesa"
+      },
+      "definition": {
+        "de": "Wehrwille\n\nBereitschaft der Bevölkerung, das Land zu verteidigen.",
+        "fr": "Volonté de défense\n\nDisposition de la population à défendre le pays.",
+        "it": "Volontà di difesa\n\nDisponibilità della popolazione a difendere il Paese."
+      }
+    },
+    "S10": {
+      "label": {
+        "de": "Verlusttoleranz",
+        "fr": "Tolérance aux pertes",
+        "it": "Tolleranza alle perdite"
+      },
+      "definition": {
+        "de": "Verlusttoleranz\n\nGesellschaftliche Bereitschaft, Verluste und Entbehrungen zu tragen.",
+        "fr": "Tolérance aux pertes\n\nDisposition de la société à supporter des pertes et des privations.",
+        "it": "Tolleranza alle perdite\n\nDisponibilità della società a sostenere perdite e privazioni."
+      }
+    },
+    "S11": {
+      "label": {
+        "de": "Vertrauen in die Streitkräfte",
+        "fr": "Confiance dans les forces armées",
+        "it": "Fiducia nelle forze armate"
+      },
+      "definition": {
+        "de": "Vertrauen in die Streitkräfte\n\nAnsehen und Rückhalt der Streitkräfte in der Bevölkerung.",
+        "fr": "Confiance dans les forces armées\n\nPrestige et soutien des forces armées au sein de la population.",
+        "it": "Fiducia nelle forze armate\n\nPrestigio e sostegno delle forze armate presso la popolazione."
+      }
+    },
+    "S12": {
+      "label": {
+        "de": "Gesellschaftliche Resilienz",
+        "fr": "Résilience de la société",
+        "it": "Resilienza della società"
+      },
+      "definition": {
+        "de": "Gesellschaftliche Resilienz\n\nFähigkeit der Gesellschaft, Krisen zu bewältigen (Selbsthilfe, Krisenerfahrung).",
+        "fr": "Résilience de la société\n\nCapacité de la société à surmonter les crises (entraide, expérience des crises).",
+        "it": "Resilienza della società\n\nCapacità della società di affrontare le crisi (autoaiuto, esperienza delle crisi)."
+      }
+    },
+    "I01": {
+      "label": {
+        "de": "Medienvielfalt und -unabhängigkeit",
+        "fr": "Diversité et indépendance des médias",
+        "it": "Pluralità e indipendenza dei media"
+      },
+      "definition": {
+        "de": "Medienvielfalt und -unabhängigkeit\n\nPluralität und Unabhängigkeit der Medienlandschaft.",
+        "fr": "Diversité et indépendance des médias\n\nPluralité et indépendance du paysage médiatique.",
+        "it": "Pluralità e indipendenza dei media\n\nPluralità e indipendenza del panorama mediatico."
+      }
+    },
+    "I02": {
+      "label": {
+        "de": "Strategische Kommunikationsfähigkeit",
+        "fr": "Capacité de communication stratégique",
+        "it": "Capacità di comunicazione strategica"
+      },
+      "definition": {
+        "de": "Strategische Kommunikationsfähigkeit\n\nFähigkeit des Staates, in Krisen glaubwürdig und koordiniert zu kommunizieren.",
+        "fr": "Capacité de communication stratégique\n\nCapacité de l’État à communiquer de manière crédible et coordonnée en situation de crise.",
+        "it": "Capacità di comunicazione strategica\n\nCapacità dello Stato di comunicare in modo credibile e coordinato nelle crisi."
+      }
+    },
+    "I03": {
+      "label": {
+        "de": "Internationale Reichweite",
+        "fr": "Portée internationale",
+        "it": "Portata internazionale"
+      },
+      "definition": {
+        "de": "Internationale Reichweite\n\nReichweite und Wirkung der eigenen Narrative im internationalen Umfeld.",
+        "fr": "Portée internationale\n\nPortée et effet des récits propres dans l’environnement international.",
+        "it": "Portata internazionale\n\nPortata ed effetto delle proprie narrazioni nel contesto internazionale."
+      }
+    },
+    "I04": {
+      "label": {
+        "de": "Resilienz gegen Desinformation",
+        "fr": "Résilience face à la désinformation",
+        "it": "Resilienza alla disinformazione"
+      },
+      "definition": {
+        "de": "Resilienz gegen Desinformation\n\nFähigkeit von Staat und Gesellschaft, Desinformation zu erkennen und abzuwehren.",
+        "fr": "Résilience face à la désinformation\n\nCapacité de l’État et de la société à détecter la désinformation et à s’en protéger.",
+        "it": "Resilienza alla disinformazione\n\nCapacità dello Stato e della società di riconoscere e contrastare la disinformazione."
+      }
+    },
+    "I05": {
+      "label": {
+        "de": "Medienkompetenz der Bevölkerung",
+        "fr": "Éducation aux médias de la population",
+        "it": "Competenza mediatica della popolazione"
+      },
+      "definition": {
+        "de": "Medienkompetenz der Bevölkerung\n\nFähigkeit der Bevölkerung, Informationen kritisch einzuordnen.",
+        "fr": "Éducation aux médias de la population\n\nCapacité de la population à examiner les informations de manière critique.",
+        "it": "Competenza mediatica della popolazione\n\nCapacità della popolazione di valutare criticamente le informazioni."
+      }
+    },
+    "I06": {
+      "label": {
+        "de": "Vertrauen in offizielle Informationen",
+        "fr": "Confiance dans les informations officielles",
+        "it": "Fiducia nelle informazioni ufficiali"
+      },
+      "definition": {
+        "de": "Vertrauen in offizielle Informationen\n\nGlaubwürdigkeit staatlicher Informationen in der Bevölkerung.",
+        "fr": "Confiance dans les informations officielles\n\nCrédibilité des informations de l’État auprès de la population.",
+        "it": "Fiducia nelle informazioni ufficiali\n\nCredibilità delle informazioni statali presso la popolazione."
+      }
+    },
+    "I07": {
+      "label": {
+        "de": "Schutz vor fremder Einflussnahme",
+        "fr": "Protection contre les influences étrangères",
+        "it": "Protezione dalle ingerenze estere"
+      },
+      "definition": {
+        "de": "Schutz vor fremder Einflussnahme\n\nGeringe Exposition gegenüber ausländischer Einflussnahme (Medienbesitz, Plattformen, Netzwerke).",
+        "fr": "Protection contre les influences étrangères\n\nFaible exposition aux influences étrangères (propriété des médias, plateformes, réseaux).",
+        "it": "Protezione dalle ingerenze estere\n\nBassa esposizione alle ingerenze estere (proprietà dei media, piattaforme, reti)."
+      }
+    },
+    "I08": {
+      "label": {
+        "de": "Staatliche Cyberabwehr",
+        "fr": "Cyberdéfense de l’État",
+        "it": "Ciberdifesa statale"
+      },
+      "definition": {
+        "de": "Staatliche Cyberabwehr\n\nFähigkeit des Staates, Cyberangriffe auf Verwaltung und kritische Infrastrukturen abzuwehren.",
+        "fr": "Cyberdéfense de l’État\n\nCapacité de l’État à repousser les cyberattaques contre l’administration et les infrastructures critiques.",
+        "it": "Ciberdifesa statale\n\nCapacità dello Stato di respingere attacchi informatici contro l’amministrazione e le infrastrutture critiche."
+      }
+    },
+    "I09": {
+      "label": {
+        "de": "Digitalisierungsgrad",
+        "fr": "Degré de numérisation",
+        "it": "Grado di digitalizzazione"
+      },
+      "definition": {
+        "de": "Digitalisierungsgrad\n\nDigitalisierung von Staat und Wirtschaft (Chance und Verwundbarkeit).",
+        "fr": "Degré de numérisation\n\nNumérisation de l’État et de l’économie (opportunité et vulnérabilité).",
+        "it": "Grado di digitalizzazione\n\nDigitalizzazione dello Stato e dell’economia (opportunità e vulnerabilità)."
+      }
+    },
+    "I10": {
+      "label": {
+        "de": "Cyber-Fachkräfte und Forschung",
+        "fr": "Spécialistes et recherche en cybersécurité",
+        "it": "Specialisti e ricerca in ambito cibernetico"
+      },
+      "definition": {
+        "de": "Cyber-Fachkräfte und Forschung\n\nVerfügbarkeit von Fachkräften und Forschung im Bereich Cyber und IT-Sicherheit.",
+        "fr": "Spécialistes et recherche en cybersécurité\n\nDisponibilité de spécialistes et de recherche dans les domaines cyber et de la sécurité informatique.",
+        "it": "Specialisti e ricerca in ambito cibernetico\n\nDisponibilità di specialisti e ricerca nell’ambito cibernetico e della sicurezza informatica."
+      }
+    },
+    "I11": {
+      "label": {
+        "de": "Digitale Souveränität",
+        "fr": "Souveraineté numérique",
+        "it": "Sovranità digitale"
+      },
+      "definition": {
+        "de": "Digitale Souveränität\n\nKontrolle über kritische digitale Infrastrukturen (Netze, Cloud, Plattformen).",
+        "fr": "Souveraineté numérique\n\nContrôle des infrastructures numériques critiques (réseaux, cloud, plateformes).",
+        "it": "Sovranità digitale\n\nControllo delle infrastrutture digitali critiche (reti, cloud, piattaforme)."
+      }
+    },
+    "N01": {
+      "label": {
+        "de": "Strassen- und Schienennetz",
+        "fr": "Réseaux routier et ferroviaire",
+        "it": "Rete stradale e ferroviaria"
+      },
+      "definition": {
+        "de": "Strassen- und Schienennetz\n\nDichte, Zustand und Redundanz der Landverkehrswege für militärische Verschiebungen.",
+        "fr": "Réseaux routier et ferroviaire\n\nDensité, état et redondance des voies de transport terrestres pour les déplacements militaires.",
+        "it": "Rete stradale e ferroviaria\n\nDensità, stato e ridondanza delle vie di trasporto terrestri per gli spostamenti militari."
+      }
+    },
+    "N02": {
+      "label": {
+        "de": "Häfen und Flugplätze",
+        "fr": "Ports et aérodromes",
+        "it": "Porti e aerodromi"
+      },
+      "definition": {
+        "de": "Häfen und Flugplätze\n\nVerfügbarkeit und Kapazität von Häfen und Flugplätzen.",
+        "fr": "Ports et aérodromes\n\nDisponibilité et capacité des ports et des aérodromes.",
+        "it": "Porti e aerodromi\n\nDisponibilità e capacità di porti e aerodromi."
+      }
+    },
+    "N03": {
+      "label": {
+        "de": "Militärische Infrastruktur und Lager",
+        "fr": "Infrastructures militaires et dépôts",
+        "it": "Infrastrutture militari e depositi"
+      },
+      "definition": {
+        "de": "Militärische Infrastruktur und Lager\n\nKasernen, Waffenplätze, Depots und Lagerkapazitäten der Streitkräfte.",
+        "fr": "Infrastructures militaires et dépôts\n\nCasernes, places d’armes, dépôts et capacités de stockage des forces armées.",
+        "it": "Infrastrutture militari e depositi\n\nCaserme, piazze d’armi, depositi e capacità di stoccaggio delle forze armate."
+      }
+    },
+    "N04": {
+      "label": {
+        "de": "Stromversorgung",
+        "fr": "Approvisionnement en électricité",
+        "it": "Approvvigionamento elettrico"
+      },
+      "definition": {
+        "de": "Stromversorgung\n\nKapazität, Redundanz und Härtung der Stromversorgung.",
+        "fr": "Approvisionnement en électricité\n\nCapacité, redondance et protection renforcée de l’approvisionnement en électricité.",
+        "it": "Approvvigionamento elettrico\n\nCapacità, ridondanza e protezione rafforzata dell’approvvigionamento elettrico."
+      }
+    },
+    "N05": {
+      "label": {
+        "de": "Treibstoffversorgung und Reserven",
+        "fr": "Approvisionnement en carburant et réserves",
+        "it": "Approvvigionamento di carburante e riserve"
+      },
+      "definition": {
+        "de": "Treibstoffversorgung und Reserven\n\nVerfügbarkeit von Treibstoffen und strategischen Reserven.",
+        "fr": "Approvisionnement en carburant et réserves\n\nDisponibilité des carburants et des réserves stratégiques.",
+        "it": "Approvvigionamento di carburante e riserve\n\nDisponibilità di carburanti e riserve strategiche."
+      }
+    },
+    "N06": {
+      "label": {
+        "de": "Ernährungs- und Versorgungssicherheit",
+        "fr": "Sécurité alimentaire et de l’approvisionnement",
+        "it": "Sicurezza alimentare e dell’approvvigionamento"
+      },
+      "definition": {
+        "de": "Ernährungs- und Versorgungssicherheit\n\nSelbstversorgungsgrad und Pflichtlager für lebenswichtige Güter.",
+        "fr": "Sécurité alimentaire et de l’approvisionnement\n\nDegré d’autosuffisance et réserves obligatoires de biens vitaux.",
+        "it": "Sicurezza alimentare e dell’approvvigionamento\n\nGrado di autosufficienza e scorte obbligatorie di beni vitali."
+      }
+    },
+    "N07": {
+      "label": {
+        "de": "Telekommunikationsnetz",
+        "fr": "Réseau de télécommunications",
+        "it": "Rete di telecomunicazioni"
+      },
+      "definition": {
+        "de": "Telekommunikationsnetz\n\nLeistungsfähigkeit, Redundanz und Härtung der Telekommunikation.",
+        "fr": "Réseau de télécommunications\n\nPerformance, redondance et protection renforcée des télécommunications.",
+        "it": "Rete di telecomunicazioni\n\nCapacità, ridondanza e protezione rafforzata delle telecomunicazioni."
+      }
+    },
+    "N08": {
+      "label": {
+        "de": "Internationale Anbindung",
+        "fr": "Connexion internationale",
+        "it": "Collegamento internazionale"
+      },
+      "definition": {
+        "de": "Internationale Anbindung\n\nRedundanz der internationalen Daten- und Kommunikationsanbindung (Seekabel, Satelliten).",
+        "fr": "Connexion internationale\n\nRedondance des connexions internationales de données et de communication (câbles sous-marins, satellites).",
+        "it": "Collegamento internazionale\n\nRidondanza dei collegamenti internazionali per dati e comunicazioni (cavi sottomarini, satelliti)."
+      }
+    },
+    "N09": {
+      "label": {
+        "de": "Gesundheitswesen",
+        "fr": "Système de santé",
+        "it": "Sistema sanitario"
+      },
+      "definition": {
+        "de": "Gesundheitswesen\n\nKapazität des Gesundheitswesens für Krisen- und Kriegsfälle.",
+        "fr": "Système de santé\n\nCapacité du système de santé en situation de crise et de guerre.",
+        "it": "Sistema sanitario\n\nCapacità del sistema sanitario in caso di crisi e di guerra."
+      }
+    },
+    "N10": {
+      "label": {
+        "de": "Schutzbauten und Zivilschutz",
+        "fr": "Ouvrages de protection et protection civile",
+        "it": "Opere di protezione e protezione civile"
+      },
+      "definition": {
+        "de": "Schutzbauten und Zivilschutz\n\nVerfügbarkeit von Schutzräumen und Leistungsfähigkeit des Zivilschutzes.",
+        "fr": "Ouvrages de protection et protection civile\n\nDisponibilité des abris et performance de la protection civile.",
+        "it": "Opere di protezione e protezione civile\n\nDisponibilità di rifugi e capacità della protezione civile."
+      }
+    },
+    "N11": {
+      "label": {
+        "de": "Schutz kritischer Infrastrukturen",
+        "fr": "Protection des infrastructures critiques",
+        "it": "Protezione delle infrastrutture critiche"
+      },
+      "definition": {
+        "de": "Schutz kritischer Infrastrukturen\n\nMassnahmen zum physischen Schutz kritischer Infrastrukturen.",
+        "fr": "Protection des infrastructures critiques\n\nMesures de protection physique des infrastructures critiques.",
+        "it": "Protezione delle infrastrutture critiche\n\nMisure per la protezione fisica delle infrastrutture critiche."
+      }
+    },
+    "U01": {
+      "label": {
+        "de": "Strategische Tiefe",
+        "fr": "Profondeur stratégique",
+        "it": "Profondità strategica"
+      },
+      "definition": {
+        "de": "Strategische Tiefe\n\nGrösse und Tiefe des eigenen Staatsgebiets im Verhältnis zur Bedrohung.",
+        "fr": "Profondeur stratégique\n\nÉtendue et profondeur du territoire national par rapport à la menace.",
+        "it": "Profondità strategica\n\nEstensione e profondità del proprio territorio nazionale rispetto alla minaccia."
+      }
+    },
+    "U02": {
+      "label": {
+        "de": "Exposition (Grenzen, Nachbarn)",
+        "fr": "Exposition (frontières, voisins)",
+        "it": "Esposizione (frontiere, vicini)"
+      },
+      "definition": {
+        "de": "Exposition (Grenzen, Nachbarn)\n\nLänge der Landgrenzen und Haltung der Nachbarstaaten.",
+        "fr": "Exposition (frontières, voisins)\n\nLongueur des frontières terrestres et attitude des États voisins.",
+        "it": "Esposizione (frontiere, vicini)\n\nLunghezza delle frontiere terrestri e atteggiamento degli Stati vicini."
+      }
+    },
+    "U03": {
+      "label": {
+        "de": "Zugang zum Meer und zu Seewegen",
+        "fr": "Accès à la mer et aux voies maritimes",
+        "it": "Accesso al mare e alle rotte marittime"
+      },
+      "definition": {
+        "de": "Zugang zum Meer und zu Seewegen\n\nFreier Zugang zu Hochsee und Seewegen.",
+        "fr": "Accès à la mer et aux voies maritimes\n\nLibre accès à la haute mer et aux voies maritimes.",
+        "it": "Accesso al mare e alle rotte marittime\n\nLibero accesso all’alto mare e alle rotte marittime."
+      }
+    },
+    "U04": {
+      "label": {
+        "de": "Gelände und natürliche Hindernisse",
+        "fr": "Terrain et obstacles naturels",
+        "it": "Terreno e ostacoli naturali"
+      },
+      "definition": {
+        "de": "Gelände und natürliche Hindernisse\n\nEignung des Geländes für die Verteidigung des Staatsgebiets.",
+        "fr": "Terrain et obstacles naturels\n\nAdéquation du terrain pour la défense du territoire national.",
+        "it": "Terreno e ostacoli naturali\n\nAdeguatezza del terreno per la difesa del territorio nazionale."
+      }
+    },
+    "U05": {
+      "label": {
+        "de": "Klima und Witterungsextreme",
+        "fr": "Climat et phénomènes météorologiques extrêmes",
+        "it": "Clima e fenomeni meteorologici estremi"
+      },
+      "definition": {
+        "de": "Klima und Witterungsextreme\n\nBelastung durch Witterungsextreme und Naturgefahren.",
+        "fr": "Climat et phénomènes météorologiques extrêmes\n\nContraintes dues aux phénomènes météorologiques extrêmes et aux dangers naturels.",
+        "it": "Clima e fenomeni meteorologici estremi\n\nEsposizione a fenomeni meteorologici estremi e pericoli naturali."
+      }
+    },
+    "WR01": {
+      "label": {
+        "de": "Satellitengestützte Nachrichtenbeschaffung",
+        "fr": "Recherche de renseignements par satellite",
+        "it": "Acquisizione di informazioni satellitare"
+      },
+      "definition": {
+        "de": "Satellitengestützte Nachrichtenbeschaffung\n\nEigene oder gesicherte Aufklärung aus dem Weltraum.",
+        "fr": "Recherche de renseignements par satellite\n\nRenseignement spatial propre ou dont l’accès est garanti.",
+        "it": "Acquisizione di informazioni satellitare\n\nRicognizione dallo spazio propria o con accesso garantito."
+      }
+    },
+    "WR02": {
+      "label": {
+        "de": "Satellitenkommunikation",
+        "fr": "Communication par satellite",
+        "it": "Comunicazione satellitare"
+      },
+      "definition": {
+        "de": "Satellitenkommunikation\n\nGesicherte militärische Satellitenkommunikation.",
+        "fr": "Communication par satellite\n\nCommunication militaire par satellite garantie.",
+        "it": "Comunicazione satellitare\n\nComunicazione satellitare militare garantita."
+      }
+    },
+    "WR03": {
+      "label": {
+        "de": "Navigation und Zeitbestimmung",
+        "fr": "Navigation et synchronisation",
+        "it": "Navigazione e determinazione del tempo"
+      },
+      "definition": {
+        "de": "Navigation und Zeitbestimmung\n\nEigenständiger Zugang zu Navigation und Zeitsignalen.",
+        "fr": "Navigation et synchronisation\n\nAccès autonome à la navigation et aux signaux horaires.",
+        "it": "Navigazione e determinazione del tempo\n\nAccesso autonomo alla navigazione e ai segnali orari."
+      }
+    },
+    "WR04": {
+      "label": {
+        "de": "Zugang zum Weltraum",
+        "fr": "Accès à l’espace exoatmosphérique",
+        "it": "Accesso allo spazio extra-atmosferico"
+      },
+      "definition": {
+        "de": "Zugang zum Weltraum\n\nEigene Startfähigkeit oder gesicherter Zugang.",
+        "fr": "Accès à l’espace exoatmosphérique\n\nCapacité propre de lancement ou accès garanti.",
+        "it": "Accesso allo spazio extra-atmosferico\n\nCapacità propria di lancio o accesso garantito."
+      }
+    },
+    "WR05": {
+      "label": {
+        "de": "Weltraumlagebild und Gegenmassnahmen",
+        "fr": "Situation spatiale et contre-mesures",
+        "it": "Quadro della situazione spaziale e contromisure"
+      },
+      "definition": {
+        "de": "Weltraumlagebild und Gegenmassnahmen\n\nWeltraumlagebild und Fähigkeit zu Gegenmassnahmen gegen Weltraumsysteme.",
+        "fr": "Situation spatiale et contre-mesures\n\nConnaissance de la situation spatiale et capacité de contre-mesures contre les systèmes spatiaux.",
+        "it": "Quadro della situazione spaziale e contromisure\n\nQuadro della situazione spaziale e capacità di contromisure contro sistemi spaziali."
+      }
+    },
+    "LR01": {
+      "label": {
+        "de": "Kampfflugzeuge",
+        "fr": "Avions de combat",
+        "it": "Aerei da combattimento"
+      },
+      "definition": {
+        "de": "Kampfflugzeuge\n\nAnzahl, Generation und Einsatzbereitschaft der Kampfflugzeuge.",
+        "fr": "Avions de combat\n\nNombre, génération et disponibilité opérationnelle des avions de combat.",
+        "it": "Aerei da combattimento\n\nNumero, generazione e prontezza d’impiego degli aerei da combattimento."
+      }
+    },
+    "LR02": {
+      "label": {
+        "de": "Bodengestützte Luftverteidigung",
+        "fr": "Défense sol-air",
+        "it": "Difesa contraerea basata a terra"
+      },
+      "definition": {
+        "de": "Bodengestützte Luftverteidigung\n\nAbdeckung über alle Reichweiten, inkl. Abwehr von Drohnen und Lenkwaffen.",
+        "fr": "Défense sol-air\n\nCouverture à toutes les portées, y compris la défense contre les drones et les engins guidés.",
+        "it": "Difesa contraerea basata a terra\n\nCopertura a tutte le portate, compresa la difesa contro droni e missili guidati."
+      }
+    },
+    "LR03": {
+      "label": {
+        "de": "Luftmobilität und Luftbetankung",
+        "fr": "Mobilité aérienne et ravitaillement en vol",
+        "it": "Mobilità aerea e rifornimento in volo"
+      },
+      "definition": {
+        "de": "Luftmobilität und Luftbetankung\n\nStrategische und taktische Lufttransport- sowie Betankungskapazität.",
+        "fr": "Mobilité aérienne et ravitaillement en vol\n\nCapacité de transport aérien stratégique et tactique et de ravitaillement en vol.",
+        "it": "Mobilità aerea e rifornimento in volo\n\nCapacità di trasporto aereo strategico e tattico e di rifornimento in volo."
+      }
+    },
+    "LR04": {
+      "label": {
+        "de": "Helikopter",
+        "fr": "Hélicoptères",
+        "it": "Elicotteri"
+      },
+      "definition": {
+        "de": "Helikopter\n\nTransport- und Kampfhelikopter.",
+        "fr": "Hélicoptères\n\nHélicoptères de transport et de combat.",
+        "it": "Elicotteri\n\nElicotteri da trasporto e da combattimento."
+      }
+    },
+    "LR05": {
+      "label": {
+        "de": "Unbemannte Luftfahrzeuge",
+        "fr": "Aéronefs sans équipage",
+        "it": "Velivoli senza equipaggio"
+      },
+      "definition": {
+        "de": "Unbemannte Luftfahrzeuge\n\nUnbemannte Systeme für Aufklärung und Wirkung.",
+        "fr": "Aéronefs sans équipage\n\nSystèmes sans équipage destinés à la reconnaissance et à la production d’effets.",
+        "it": "Velivoli senza equipaggio\n\nSistemi senza equipaggio per la ricognizione e la produzione di effetti."
+      }
+    },
+    "BO01": {
+      "label": {
+        "de": "Mechanisierte Verbände",
+        "fr": "Formations mécanisées",
+        "it": "Formazioni meccanizzate"
+      },
+      "definition": {
+        "de": "Mechanisierte Verbände\n\nUmfang und Qualität von Kampfpanzern, Schützenpanzern und mechanisierten Verbänden.",
+        "fr": "Formations mécanisées\n\nVolume et qualité des chars de combat, chars de grenadiers et formations mécanisées.",
+        "it": "Formazioni meccanizzate\n\nConsistenza e qualità dei carri armati da combattimento, dei carri armati granatieri e delle formazioni meccanizzate."
+      }
+    },
+    "BO02": {
+      "label": {
+        "de": "Artillerie und Feuer auf Distanz",
+        "fr": "Artillerie et feux à distance",
+        "it": "Artiglieria e fuoco a distanza"
+      },
+      "definition": {
+        "de": "Artillerie und Feuer auf Distanz\n\nRohr-, Raketenartillerie und präzise Wirkmittel auf Distanz.",
+        "fr": "Artillerie et feux à distance\n\nArtillerie à tube et à roquettes et moyens de précision à distance.",
+        "it": "Artiglieria e fuoco a distanza\n\nArtiglieria a tubo, artiglieria lanciarazzi e mezzi di precisione a distanza."
+      }
+    },
+    "BO03": {
+      "label": {
+        "de": "Infanterie und Spezialkräfte",
+        "fr": "Infanterie et forces spéciales",
+        "it": "Fanteria e forze speciali"
+      },
+      "definition": {
+        "de": "Infanterie und Spezialkräfte\n\nUmfang und Qualität infanteristischer Kräfte und Spezialkräfte.",
+        "fr": "Infanterie et forces spéciales\n\nVolume et qualité des forces d’infanterie et des forces spéciales.",
+        "it": "Fanteria e forze speciali\n\nConsistenza e qualità delle forze di fanteria e delle forze speciali."
+      }
+    },
+    "BO04": {
+      "label": {
+        "de": "Mobilität und Gegenmobilität",
+        "fr": "Mobilité et contre-mobilité",
+        "it": "Mobilità e contromobilità"
+      },
+      "definition": {
+        "de": "Mobilität und Gegenmobilität\n\nFähigkeit zu Mobilität, Gegenmobilität und Schutzbauten.",
+        "fr": "Mobilité et contre-mobilité\n\nCapacité de mobilité, de contre-mobilité et de réalisation d’ouvrages de protection.",
+        "it": "Mobilità e contromobilità\n\nCapacità di mobilità, contromobilità e costruzione di opere di protezione."
+      }
+    },
+    "BO05": {
+      "label": {
+        "de": "Unbemannte Bodensysteme und Drohnen",
+        "fr": "Systèmes terrestres sans équipage et drones",
+        "it": "Sistemi terrestri senza equipaggio e droni"
+      },
+      "definition": {
+        "de": "Unbemannte Bodensysteme und Drohnen\n\nDrohnen und unbemannte Systeme im Einsatz der Bodentruppen.",
+        "fr": "Systèmes terrestres sans équipage et drones\n\nDrones et systèmes sans équipage employés par les troupes terrestres.",
+        "it": "Sistemi terrestri senza equipaggio e droni\n\nDroni e sistemi senza equipaggio impiegati dalle truppe terrestri."
+      }
+    },
+    "MR01": {
+      "label": {
+        "de": "Überwasserflotte",
+        "fr": "Flotte de surface",
+        "it": "Flotta di superficie"
+      },
+      "definition": {
+        "de": "Überwasserflotte\n\nUmfang und Qualität der Überwassereinheiten.",
+        "fr": "Flotte de surface\n\nVolume et qualité des unités de surface.",
+        "it": "Flotta di superficie\n\nConsistenza e qualità delle unità di superficie."
+      }
+    },
+    "MR02": {
+      "label": {
+        "de": "U-Boote",
+        "fr": "Sous-marins",
+        "it": "Sommergibili"
+      },
+      "definition": {
+        "de": "U-Boote\n\nUmfang und Qualität der U-Boot-Flotte.",
+        "fr": "Sous-marins\n\nVolume et qualité de la flotte de sous-marins.",
+        "it": "Sommergibili\n\nConsistenza e qualità della flotta di sommergibili."
+      }
+    },
+    "MR03": {
+      "label": {
+        "de": "Seeminenkampf",
+        "fr": "Guerre des mines navales",
+        "it": "Guerra di mine navali"
+      },
+      "definition": {
+        "de": "Seeminenkampf\n\nFähigkeit zum Legen und Räumen von Seeminen.",
+        "fr": "Guerre des mines navales\n\nCapacité à poser et à neutraliser des mines navales.",
+        "it": "Guerra di mine navali\n\nCapacità di posa e bonifica di mine navali."
+      }
+    },
+    "MR04": {
+      "label": {
+        "de": "Küstenverteidigung",
+        "fr": "Défense côtière",
+        "it": "Difesa costiera"
+      },
+      "definition": {
+        "de": "Küstenverteidigung\n\nKüstengestützte Seezielflugkörper und Überwachung.",
+        "fr": "Défense côtière\n\nMissiles antinavires basés à terre et surveillance côtière.",
+        "it": "Difesa costiera\n\nMissili antinave basati sulla costa e sorveglianza."
+      }
+    },
+    "MR05": {
+      "label": {
+        "de": "Seeraumüberwachung",
+        "fr": "Surveillance de l’espace maritime",
+        "it": "Sorveglianza dello spazio marittimo"
+      },
+      "definition": {
+        "de": "Seeraumüberwachung\n\nFähigkeit zur Überwachung des relevanten Seeraums.",
+        "fr": "Surveillance de l’espace maritime\n\nCapacité à surveiller l’espace maritime pertinent.",
+        "it": "Sorveglianza dello spazio marittimo\n\nCapacità di sorvegliare lo spazio marittimo rilevante."
+      }
+    },
+    "ER01": {
+      "label": {
+        "de": "Elektronische Kriegführung",
+        "fr": "Guerre électronique",
+        "it": "Guerra elettronica"
+      },
+      "definition": {
+        "de": "Elektronische Kriegführung\n\nStören, Täuschen und Schützen im elektromagnetischen Spektrum.",
+        "fr": "Guerre électronique\n\nBrouillage, déception et protection dans le spectre électromagnétique.",
+        "it": "Guerra elettronica\n\nDisturbo, inganno e protezione nello spettro elettromagnetico."
+      }
+    },
+    "ER02": {
+      "label": {
+        "de": "Elektronische Nachrichtenbeschaffung",
+        "fr": "Renseignement électronique",
+        "it": "Acquisizione di informazioni elettroniche"
+      },
+      "definition": {
+        "de": "Elektronische Nachrichtenbeschaffung\n\nFähigkeit zur Aufklärung im elektromagnetischen Spektrum.",
+        "fr": "Renseignement électronique\n\nCapacité de renseignement dans le spectre électromagnétique.",
+        "it": "Acquisizione di informazioni elettroniche\n\nCapacità di ricognizione nello spettro elettromagnetico."
+      }
+    },
+    "ER03": {
+      "label": {
+        "de": "Elektromagnetisches Lagebild",
+        "fr": "Situation électromagnétique",
+        "it": "Quadro della situazione elettromagnetica"
+      },
+      "definition": {
+        "de": "Elektromagnetisches Lagebild\n\nFähigkeit, ein Lagebild der Frequenzbelegung und -verwendung zu erstellen und zu nutzen.",
+        "fr": "Situation électromagnétique\n\nCapacité à établir et à exploiter une image de l’occupation et de l’utilisation des fréquences.",
+        "it": "Quadro della situazione elettromagnetica\n\nCapacità di creare e utilizzare un quadro dell’occupazione e dell’impiego delle frequenze."
+      }
+    },
+    "CR01": {
+      "label": {
+        "de": "Cyber-Abwehr",
+        "fr": "Cyberdéfense",
+        "it": "Ciberdifesa"
+      },
+      "definition": {
+        "de": "Cyber-Abwehr\n\nSchutz militärischer Netze und Systeme vor Cyberangriffen.",
+        "fr": "Cyberdéfense\n\nProtection des réseaux et systèmes militaires contre les cyberattaques.",
+        "it": "Ciberdifesa\n\nProtezione delle reti e dei sistemi militari dagli attacchi informatici."
+      }
+    },
+    "CR02": {
+      "label": {
+        "de": "Offensive Cyber-Aktionen",
+        "fr": "Actions cyber offensives",
+        "it": "Azioni cibernetiche offensive"
+      },
+      "definition": {
+        "de": "Offensive Cyber-Aktionen\n\nFähigkeit zu militärischen Cyberoperationen gegen gegnerische Systeme.",
+        "fr": "Actions cyber offensives\n\nCapacité de mener des cyberopérations militaires contre les systèmes adverses.",
+        "it": "Azioni cibernetiche offensive\n\nCapacità di operazioni cibernetiche militari contro i sistemi avversari."
+      }
+    },
+    "CR03": {
+      "label": {
+        "de": "Resilienz der Führungsunterstützung",
+        "fr": "Résilience de l’aide au commandement",
+        "it": "Resilienza dell’aiuto alla condotta"
+      },
+      "definition": {
+        "de": "Resilienz der Führungsunterstützung\n\nRedundanz und Durchhaltefähigkeit der militärischen Kommunikation unter Störung.",
+        "fr": "Résilience de l’aide au commandement\n\nRedondance et capacité à durer des communications militaires en présence de perturbations.",
+        "it": "Resilienza dell’aiuto alla condotta\n\nRidondanza e capacità di resistenza delle comunicazioni militari in presenza di disturbi."
+      }
+    },
+    "IR01": {
+      "label": {
+        "de": "Informationsoperationen",
+        "fr": "Opérations d’information",
+        "it": "Operazioni d’informazione"
+      },
+      "definition": {
+        "de": "Informationsoperationen\n\nFähigkeit, Informationsoperationen zu planen und durchzuführen.",
+        "fr": "Opérations d’information\n\nCapacité à planifier et à conduire des opérations d’information.",
+        "it": "Operazioni d’informazione\n\nCapacità di pianificare e condurre operazioni d’informazione."
+      }
+    },
+    "IR02": {
+      "label": {
+        "de": "Psychologische Operationen",
+        "fr": "Opérations psychologiques",
+        "it": "Operazioni psicologiche"
+      },
+      "definition": {
+        "de": "Psychologische Operationen\n\nFähigkeit zur Beeinflussung gegnerischer Kräfte und Bevölkerung.",
+        "fr": "Opérations psychologiques\n\nCapacité à influencer les forces adverses et la population.",
+        "it": "Operazioni psicologiche\n\nCapacità di influenzare le forze avversarie e la popolazione."
+      }
+    },
+    "IR03": {
+      "label": {
+        "de": "Militärische Kommunikation",
+        "fr": "Communication militaire",
+        "it": "Comunicazione militare"
+      },
+      "definition": {
+        "de": "Militärische Kommunikation\n\nGlaubwürdige Kommunikation der Streitkräfte gegen innen und aussen.",
+        "fr": "Communication militaire\n\nCommunication crédible des forces armées vers l’intérieur et l’extérieur.",
+        "it": "Comunicazione militare\n\nComunicazione credibile delle forze armate verso l’interno e l’esterno."
+      }
+    },
+    "IR04": {
+      "label": {
+        "de": "Lagebild Informationsraum",
+        "fr": "Situation dans l’espace informationnel",
+        "it": "Quadro della situazione nello spazio informativo"
+      },
+      "definition": {
+        "de": "Lagebild Informationsraum\n\nFähigkeit, den Informationsraum laufend zu überwachen und auszuwerten.",
+        "fr": "Situation dans l’espace informationnel\n\nCapacité à surveiller et à analyser l’espace informationnel.",
+        "it": "Quadro della situazione nello spazio informativo\n\nCapacità di sorvegliare e analizzare costantemente lo spazio informativo."
+      }
+    }
+  },
+  "scenarios": {
+    "S1": {
+      "label": {
+        "de": "Ausgewogen",
+        "fr": "Équilibré",
+        "it": "Equilibrato"
+      },
+      "description": {
+        "de": "Alle Potentialfaktoren gleich gewichtet.",
+        "fr": "Tous les facteurs de potentiel ont le même poids.",
+        "it": "Tutti i fattori di potenziale hanno lo stesso peso."
+      }
+    },
+    "S2": {
+      "label": {
+        "de": "Abwehr eines bewaffneten Angriffs",
+        "fr": "Défense contre une attaque armée",
+        "it": "Difesa da un attacco armato"
+      },
+      "description": {
+        "de": "Hochintensiver Kampf; Material entscheidend.",
+        "fr": "Combat de haute intensité ; le matériel est décisif.",
+        "it": "Combattimento ad alta intensità; il materiale è decisivo."
+      }
+    },
+    "S3": {
+      "label": {
+        "de": "Lang andauernder bewaffneter Konflikt",
+        "fr": "Conflit armé de longue durée",
+        "it": "Conflitto armato prolungato"
+      },
+      "description": {
+        "de": "Abnützung; Personal, Durchhaltefähigkeit und Moral entscheidend.",
+        "fr": "Usure ; le personnel, la capacité à durer et le moral sont décisifs.",
+        "it": "Logoramento; il personale, la capacità di resistenza e il morale sono decisivi."
+      }
+    },
+    "S4": {
+      "label": {
+        "de": "Bedrohung unterhalb der Schwelle eines bewaffneten Angriffs",
+        "fr": "Menace en deçà du seuil d’une attaque armée",
+        "it": "Minaccia al di sotto della soglia di un attacco armato"
+      },
+      "description": {
+        "de": "Hybride Mittel; Führung und Moral entscheidend.",
+        "fr": "Moyens hybrides ; la conduite et le moral sont décisifs.",
+        "it": "Mezzi ibridi; la condotta e il morale sono decisivi."
+      }
+    },
+    "S5": {
+      "label": {
+        "de": "Konflikt im maritimen Raum",
+        "fr": "Conflit dans l’espace maritime",
+        "it": "Conflitto nello spazio marittimo"
+      },
+      "description": {
+        "de": "Technologielastiger Konflikt; Material entscheidend.",
+        "fr": "Conflit à forte composante technologique ; le matériel est décisif.",
+        "it": "Conflitto ad alta componente tecnologica; il materiale è decisivo."
+      }
+    },
+    "S6": {
+      "label": {
+        "de": "Benutzerdefiniert",
+        "fr": "Personnalisé",
+        "it": "Personalizzato"
+      },
+      "description": {
+        "de": "Frei anpassbar.",
+        "fr": "Librement adaptable.",
+        "it": "Liberamente adattabile."
+      }
+    }
+  }
+}
